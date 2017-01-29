@@ -1,0 +1,6 @@
+This repository contains test files used in LibPKMN's unit test suite.
+
+Note that this repository does not include save files, as LibPKMN uses
+PKSav's test saves for this purpose.
+
+README last updated: 2017/01/29
